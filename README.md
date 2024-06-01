@@ -8,9 +8,11 @@ This is a simple ASP.NET Core MVC application that performs CRUD (Create, Read, 
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) or any other database supported by Entity Framework Core
 
 -Installed Nuget packages
-Microsoft.EntityFrameworkCore
-Microsoft.EntityFrameworkCore.SqlServer
-Microsoft.EntityFrameworkCore.Tools
+
+
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
 
 ## Setup
 
