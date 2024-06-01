@@ -7,6 +7,11 @@ This is a simple ASP.NET Core MVC application that performs CRUD (Create, Read, 
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) or any other database supported by Entity Framework Core
 
+-Installed Nuget packages
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
 ## Setup
 
 1. Clone the repository:
